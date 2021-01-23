@@ -1,1 +1,2 @@
-# Intro-to-Java-Week-6-Coding-Assignment
+# Promineo Tech Java Week Six Project
+This project implements the card game called War.
